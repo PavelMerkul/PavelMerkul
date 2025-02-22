@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**PavelMerkul/PavelMerkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VxbWJnazk3NTBrcDc1bTJqZ25pZzI3YXZ4dGNpamR1MmlreDVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dKc2fBq97S9gIzLX2j/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<h1>
+  Hello!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
